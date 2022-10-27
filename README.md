@@ -9,3 +9,4 @@ Hahahkaakamkqkwhedv/Hahahkaakamkqkwhedv is a ✨ special ✨ repository because 
 You can click the Preview link to take a look at your changes.
 --->
 Github api help disable third party on my samsung a32 phone and help update my samsung phone to the latest version 
+Automatically 
